@@ -5,7 +5,7 @@ title: Arvin Chen's Photos
 	<h1>{{ page.title }}</h1>
 	<ul class="Photos">
         
-	  {% for post in site.posts %}  
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% for photos in site.photos %}  
+	    <li><span>{{ photos.date | date_to_string }}</span> » <a href="{{ photos.url }}" title="{{ photos.title }}">{{ photos.title }}</a></li>
 	  {% endfor %}
 	</ul>
