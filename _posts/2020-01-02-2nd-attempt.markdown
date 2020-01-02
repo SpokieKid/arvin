@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Page creation
-categories: [photo]
+categories: photo
 ---
 Trying to create a page.
 
 And trying to add a picture
 ![A photo](/assets/DripofTear.jpg)
+End of the image

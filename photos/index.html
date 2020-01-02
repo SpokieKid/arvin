@@ -2,6 +2,9 @@
 layout: default
 title: Browsing Photos
 ---
+<h2>
+    Here are all of my photos.
+</h2>
 {% for post in site.categories.photo %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
