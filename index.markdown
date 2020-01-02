@@ -7,3 +7,7 @@ title: Arvin Chen An Existentialist
 ---
 I shall store my photos and blogs here from now on.
 However, I have absolutely no idea what to do about it.
+**Below are all of my blogs**
+{% for post in site.post %}
+  *[{{post.title}}]({{post.url}})
+{% endfor %}
