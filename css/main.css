@@ -4,9 +4,11 @@ body {
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 16px;
     padding: 0px;
+    line-height: 1.5;
     list-style: none;
-    font-weight: bold;
+    font-weight: 300;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -19,8 +21,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1 {
-    font-size: 3em;
+h1, h2, h3, h4, h5, h6 {
+    font-size: 100%;
+    font-weight: 400;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
