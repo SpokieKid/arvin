@@ -5,6 +5,5 @@
 layout: default
 title: Arvin Chen An Existentialist
 ---
-## **Actually I have no idea what to do about it...**
-
-Here is where I would store all my photos and blogs from now on...
+I shall store my photos and blogs here from now on.
+However, I have absolutely no idea what to do about it.
