@@ -31,7 +31,7 @@ github_username:  SpokieKid
 
 # Build settings
 #theme: jekyll-theme-slate
-theme: jekyll-theme-primer
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
