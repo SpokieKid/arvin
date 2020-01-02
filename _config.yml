@@ -34,6 +34,13 @@ theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"  #不是原来就有的，https://jekyllrb.com/docs/configuration/front-matter-defaults/
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
