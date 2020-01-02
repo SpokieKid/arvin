@@ -30,9 +30,11 @@ twitter_username: arvinchen
 github_username:  SpokieKid
 
 # Build settings
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 permalink: /blog/:year/:month/:day/:title
 
