@@ -1,7 +1,7 @@
 ---
 layout: photos
 title: 1st Attempt
-categories: [photo]
+categories: photo
 ---
 ## **Trying to save my first photo attempt here!**
 Can you see anything?

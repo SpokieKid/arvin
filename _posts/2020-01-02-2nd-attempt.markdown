@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: photos
 title: Page creation
 categories: photo
 ---
+
+
 Trying to create a page.
 
 And trying to add a picture
