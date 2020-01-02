@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Arvin Chen, An Existentialist
+title: Arvin Chen An Existentialist
 ---
 ## **Actually I have no idea what to do about it...**
+
+Here is where I would store all my photos and blogs from now on...
